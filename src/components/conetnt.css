@@ -1,0 +1,15 @@
+#body {
+    margin-left: 25rem;
+}
+
+@media (max-width: 920px) {
+   #body {
+        margin-left: 10rem;
+   }
+}
+
+@media (max-width: 730px) {
+    #body {
+         margin-left: 5rem;
+    }
+ }
